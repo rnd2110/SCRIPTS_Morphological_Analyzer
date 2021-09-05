@@ -1,0 +1,14 @@
+
+
+JAR version:
+scripts-morph-v11.5.jar
+
+Docker Image:
+scripts-morph-v11.5.tar
+To load the image: docker load -i scripts-morph-v11.5.tar
+
+Resources (only needed for the JAR version):
+resources
+
+Documentation:
+readme.txt, A detailed description on how to run the analyzer
