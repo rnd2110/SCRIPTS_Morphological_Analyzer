@@ -1,6 +1,6 @@
 Morphological Segmentation:
 System + Documentation: https://github.com/rnd2110/MorphAGram
-Models: segmentation-models
+Models: segmentation-models (same as the ones under docker-component/resources)
 
 POS Tagging:
 System + Documentation: https://github.com/rnd2110/unsupervised-cross-lingual-POS-tagging
